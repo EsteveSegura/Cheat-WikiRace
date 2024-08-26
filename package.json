@@ -1,0 +1,24 @@
+{
+  "name": "cheat-wikirace",
+  "version": "1.0.0",
+  "description": "Cheat-WikiRace is a tool designed to automate the process of finding the shortest path between two Wikipedia pages, effectively \"cheating\" at the WikiRace game.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsteveSegura/Cheat-WikiRace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsteveSegura/Cheat-WikiRace/issues"
+  },
+  "homepage": "https://github.com/EsteveSegura/Cheat-WikiRace#readme",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cheerio": "^1.0.0"
+  }
+}
